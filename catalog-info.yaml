@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: python-fastapi-app 
+  name: Train-fastapi-app 
   description: A scaffolded Python web application
   github.com/project-slug: pep8speaks-org/pep8speaks
   backstage.io/techdocs-ref: dir:.
